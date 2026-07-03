@@ -1,7 +1,9 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "apkUrl": "https://oleksii1221.github.io/KEP_Schedule_PB/downloads/KEP_Schedule.apk",
-  "sha256": "2157f05db81454a7a26145353856942eaafb6543e9e9a6ce1e8ff355217cb2b9",
-  "notes": "Додано налаштування повідомлень про пари, тестове повідомлення та виправлену іконку пушів."
+  "platform": "android",
+  "channel": "master",
+  "apkUrl": "https://oleksii1221.github.io/KEP_Schedule_PB/downloads/android/master/KEP_Schedule.apk",
+  "sha256": "c7f9c5bd7bf9bb235b7beadec24e60e24b3efb0efe450cd2cc8fa72202ba4dd0",
+  "notes": "Оновлено контакт Telegram у налаштуваннях додатка."
 }

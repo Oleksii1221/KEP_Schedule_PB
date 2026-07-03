@@ -1,0 +1,9 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1-dev",
+  "platform": "android",
+  "channel": "dev",
+  "apkUrl": "https://oleksii1221.github.io/KEP_Schedule_PB/downloads/android/dev/KEP_Schedule-dev.apk",
+  "sha256": "c7f9c5bd7bf9bb235b7beadec24e60e24b3efb0efe450cd2cc8fa72202ba4dd0",
+  "notes": "Dev APK з оновленим Telegram контактом."
+}
