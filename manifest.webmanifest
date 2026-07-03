@@ -1,8 +1,8 @@
 {
   "name": "KEP Schedule",
   "short_name": "KEP",
-  "description": "Розклад KEP для телефону.",
-  "start_url": "app.html",
+  "description": "KEP Schedule для Android та Telegram.",
+  "start_url": "index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0d1117",

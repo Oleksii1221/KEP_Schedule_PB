@@ -1,8 +1,7 @@
-const CACHE_NAME = "kep-schedule-pwa-v1";
+const CACHE_NAME = "kep-schedule-public-v2";
 const ASSETS = [
   "./",
   "./index.html",
-  "./app.html",
   "./manifest.webmanifest",
   "./icons/icon.svg"
 ];
@@ -31,6 +30,6 @@ self.addEventListener("fetch", event => {
         caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
         return response;
       })
-      .catch(() => caches.match(request).then(cached => cached || caches.match("./app.html")))
+      .catch(() => caches.match(request).then(cached => cached || caches.match("./index.html")))
   );
 });

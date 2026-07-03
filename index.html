@@ -102,9 +102,10 @@
       box-shadow: 0 18px 40px rgba(94,234,212,.22);
     }
 
-    .webapp {
+    .telegram {
       display: inline-flex;
       align-items: center;
+      gap: 12px;
       min-height: 54px;
       padding: 0 22px;
       border-radius: 8px;
@@ -116,7 +117,8 @@
       font-weight: 800;
     }
 
-    .android {
+    .android,
+    .telegram-icon {
       width: 24px;
       height: 24px;
       fill: currentColor;
@@ -251,7 +253,12 @@
           </svg>
           Download
         </a>
-        <a class="webapp" href="app.html">Відкрити для iPhone</a>
+        <a class="telegram" href="https://t.me/Kico" target="_blank" rel="noopener">
+          <svg class="telegram-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M21.94 4.16a1.55 1.55 0 0 0-1.96-.88L3.36 9.7c-1.2.47-1.18 2.17.04 2.58l4.19 1.41 1.62 5.17c.36 1.14 1.81 1.48 2.64.62l2.32-2.41 4.33 3.17c1.05.77 2.55.18 2.82-1.09l2.26-13.23c.13-.7-.06-1.35-.64-1.76ZM19.7 5.6l-9.5 8.51-.37 3.43-1.03-3.3 8.37-5.27c.38-.24.09-.82-.32-.63l-10.1 4.69-3.05-1.03L19.7 5.6Z"/>
+          </svg>
+          Бот з розкладом
+        </a>
         <div class="version">Android · V1.1</div>
       </div>
     </section>
