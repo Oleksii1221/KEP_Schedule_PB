@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "platform": "android",
   "channel": "master",
   "apkUrl": "https://oleksii1221.github.io/KEP_Schedule_PB/downloads/android/master/KEP_Schedule.apk",
-  "sha256": "85798a0f17680c01ad2cbbd9a27e143335f6b4a6021c17a87427a51141529d0a",
-  "notes": "Додано віджети на робочий стіл: поточний тиждень, чотири тижні, розклад на сьогодні та найближча пара."
+  "sha256": "000566e54f3bb78b5a7bd358b48fdf6ccb9f8b49c74f90b7306037de4f731729",
+  "notes": "Виправлено перевірку оновлень та додано віджети на робочий стіл."
 }
