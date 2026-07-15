@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "platform": "android",
   "channel": "master",
   "apkUrl": "https://oleksii1221.github.io/KEP_Schedule_PB/downloads/android/master/KEP_Schedule.apk",
-  "sha256": "c7f9c5bd7bf9bb235b7beadec24e60e24b3efb0efe450cd2cc8fa72202ba4dd0",
-  "notes": "Оновлено контакт Telegram у налаштуваннях додатка."
+  "sha256": "85798a0f17680c01ad2cbbd9a27e143335f6b4a6021c17a87427a51141529d0a",
+  "notes": "Додано віджети на робочий стіл: поточний тиждень, чотири тижні, розклад на сьогодні та найближча пара."
 }
