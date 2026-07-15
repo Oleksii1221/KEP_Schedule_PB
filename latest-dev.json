@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3-dev",
+  "versionCode": 5,
+  "versionName": "1.4-dev",
   "platform": "android",
   "channel": "dev",
   "apkUrl": "https://oleksii1221.github.io/KEP_Schedule_PB/downloads/android/dev/KEP_Schedule-dev.apk",
-  "sha256": "000566e54f3bb78b5a7bd358b48fdf6ccb9f8b49c74f90b7306037de4f731729",
-  "notes": "Dev APK з виправленою перевіркою оновлень та віджетами."
+  "sha256": "fc59c66a2961b4a7287271347ec012ff11e9732dd75701e55a6d91d379541f38",
+  "notes": "Додаток став трохи зручнішим.\n\nМи допрацювали KEP Schedule, щоб ним було зручніше користуватись."
 }
