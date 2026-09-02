@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5.5",
   "platform": "android",
   "channel": "master",
   "apkUrl": "https://oleksii1221.github.io/KEP_Schedule_PB/downloads/android/master/KEP_Schedule.apk",
-  "sha256": "fc59c66a2961b4a7287271347ec012ff11e9732dd75701e55a6d91d379541f38",
-  "notes": "Додаток став трохи зручнішим.\n\nМи допрацювали KEP Schedule, щоб ним було зручніше користуватись."
+  "sha256": "698ea6e5dfbab859d241b4a82e441100e556c4305c0b92da4c6e5c37e296731d",
+  "notes": "Додано вибір графіка сповіщень: повні або скорочені пари.\n\nЗ 25 серпня до 15 вересня застосунок щодня попереджає про можливі зміни розкладу та оновлює його при кожному вході."
 }
