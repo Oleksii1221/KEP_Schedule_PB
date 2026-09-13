@@ -1,4 +1,4 @@
-const CACHE_NAME = "kep-schedule-public-v5";
+const CACHE_NAME = "kep-schedule-public-v6";
 const ASSETS = [
   "./",
   "./index.html",
