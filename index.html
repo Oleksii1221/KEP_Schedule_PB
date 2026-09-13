@@ -25,9 +25,16 @@
 
     * { box-sizing: border-box; }
 
+    html {
+      min-width: 100%;
+      background: #0d1117;
+    }
+
     body {
       margin: 0;
+      min-width: 100%;
       min-height: 100vh;
+      overflow-x: hidden;
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       color: var(--text);
       background:
@@ -383,7 +390,8 @@
       const day = archivedDays[index];
       const lessons = archivedSchedule[day]
         .filter(item => weeksFor(item.week).includes(week))
-        .sort((a, b) => Number(a.number) - Number(b.number));
+        .sort((a, b) => Number(a.number) - Number(b.number))
+        .slice(0, 3);
 
       const updateContent = () => {
         dayName.textContent = capitalize(day);
